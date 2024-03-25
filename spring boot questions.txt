@@ -1,0 +1,23 @@
+
+#  << ---------------------Spring boot interview questions  -------------------------->>
+ 
+1.What is Open-API and swagger ? Are they same or different ?
+2.How will you implement interceptors and filters while using spring boot ?
+3.What are the core classes to implement the Spring Security ? Is this any how different while using with spring MVC or with spring boot ?
+4.What is service mash ?
+5.Name two service discovery which you have implemented in your spring boot microservice application ? Is there any configuration needs to be added to your application or in K8s cluster related to this ?
+6. Name Load balancer which you are using in your application and what all steps need to follow while configure it with Kubernetes or any of cloud ?
+7.How will scale your single microservice or multiple microservices ? is application.yaml or application.properties enough or you have to tell any thing to your cloud environment ?
+8.What is cloud formation template ?
+9.What is the difference b/w Joint Point and Point Cuts in Spring AOP.
+10.What is use of Spring Batch , have you ever implemented the same , if yes kindly tell me the steps ?
+11.What are the basic commands to create a docker image and where are you storing your docker images ?
+12.What CICD tools your are using in your project for Continuous building and continuous deployment ?
+13.Different type of inheritance in Hibernate ?
+14.How many tables will create in many to many relations ?
+15.What is the use of sleuth in spring boot microservice application ? As Spring boot 3.x no more supporting sleuth ,please name the alternative for same.
+16.What is Micrometer Tracing in spring boot 3 ?
+17.What are ways of communication between microservices ?
+18.What type of injection use by @Autowired ?
+19.Why constructor injection is a recommended approach over setter base i?
+20.Please describe the workflow of kafka ?
