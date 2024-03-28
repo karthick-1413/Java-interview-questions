@@ -1,47 +1,47 @@
 1.What is Java?
 2.What is the volatile keyword in Java?
-3.Explain the Java memory model
+3.Explain the Java memory model ?
 4.What is the purpose of the default keyword in interfaces?
 5.How does switch differ in Java 7 and Java 8?
-6.Explain the concept of Autoboxing and Unboxing
-7.Describe the @FunctionalInterface annotation
+6.Explain the concept of Autoboxing and Unboxing ?
+7.Describe the @FunctionalInterface annotation ?
 8.How can you achieve immutability in Java?
 9.What is the decorator pattern?
-10.Explain the Java I/O streams
+10.Explain the Java I/O streams ?
 11.How does the garbage collector work in Java?
 12.What are the benefits of using Java NIO?
-13.Explain the Observer pattern
+13.Explain the Observer pattern ?
 14.What is the purpose of Java’s Optional?
-15.Explain Java’s try-with-resources
-16.Explain the difference between C++ and Java
-17.What is polymorphism? Provide an example
+15.Explain Java’s try-with-resources ?
+16.Explain the difference between C++ and Java ?
+17.What is polymorphism? Provide an example ?
 18.How can you avoid memory leaks in Java?
-19.Explain the purpose of Java’s synchronized block
-20.Explain the concept of modules in Java
+19.Explain the purpose of Java’s synchronized block ?
+20.Explain the concept of modules in Java ?
 
 21.What is Java?
 22.What’s the Difference between the JDK, JRE, and JVM?
 23.How Does the public static void main(String[] args) Method Work?
 24.What is bytecode in Java?
-25.Differentiate between overloading and overriding
+25.Differentiate between overloading and overriding ?
 26.What is the Java ClassLoader?
 27.Can We Override Static Methods in Java?
 28.How Does the finally Block Differ from the finalize Method in Java?
 29.What is the Difference between an Abstract Class and an Interface?
-30.Explain the Concept of Java Packages
+30.Explain the Concept of Java Packages ?
 
 31.What are Java Annotations?
 32.How Does Multi-threading Work in Java?
-33. Use throw to Raise an Exception
-34.Use throws to Declare Exceptions
+33. Use throw to Raise an Exception ?
+34.Use throws to Declare Exceptions ?
 35.What is the Significance of the transient Keyword?
 36.How Do You Ensure Thread Safety in Java?
-37.Explain the Singleton Pattern
+37.Explain the Singleton Pattern ?
 38.What are Java Streams?
 39.What Are the Primary Differences between ArrayList and LinkedList?
 40.How do HashSet, LinkedHashSet, and TreeSet Differ?
 
-41.Differentiate between HashMap and ConcurrentHashMap
+41.Differentiate between HashMap and ConcurrentHashMap ?
 42.Describe the Contract between the hashCode() and equals() Methods
 43.What is Java Reflection?
 44.How Do You Create a Custom Exception in Java?
@@ -51,3 +51,58 @@
 48.What is the Diamond Problem in Inheritance?
 49. Describe the Difference between Fail-fast and Fail-safe Iterators
 50.What is Type Erasure in Java Generics?
+
+
+51.Why are strings immutable in java?
+52.How intern() works?
+53.How many objects are created in Strings using string literals and new operator?
+54.How string constant pool works?
+55.Difference between equals and == operator?
+56.Difference between string , string buffer and string builder. ?
+57.Types of oops ?
+58.Composition vs Aggregation vs Association?
+59..Can Abstract class have main method?
+60.What is Serialisation and Deserialisation?
+
+61.Is it possible to serialise a class if its super class is not serialisable ?Can the class be still serialised and deserialised?
+62.Can Uninitialised non serialised , non transient fields still be tolerated?
+63.What is marker interface?
+64.What is shallow copy and Deep copy?
+65.Difference between Error and Exception?
+66.What is Runtime exception ?
+67.How does JVM handle Exception?
+68.Difference between Final, Finalise and Finally?
+69.Super class of all exceptions?
+70.Is throwable an interface?
+
+71.When Finally block doesn’t get executed?
+72.Can subclass throw higher checked exception than base class?
+73.Can we throw an unchecked exception in child class if parent class doesn’t throw any exception?
+74.Difference between throw and throws()
+75.Why to use Enum?
+76.Array vs ArrayList?
+77.ArrayList vs LinkedList? When to use which collection?
+78.What is concurrent modification exception?
+79.Internal working of HashMap ?
+80.Java8 changes to HashMap ?
+
+81.Why HashMap contains null key?
+82.Is it Mandatory to have key immutable in HashMap?
+83.Why to override equals() and hashcode() method?
+85.What is the Internal Datastructure in TreeMap? How the elements are sorted?
+86.Comparable vs Comparator ?
+87.What is blocking Queue?
+88.What is Vector? When to use it?
+89.Interface8 changes ?
+90.Difference between Collection and Stream?
+
+91.What is Terminal Operator vs Intermediate operators?
+92.Flatmap vs Map?
+93.Difference between Parallel sort vs sort
+94.Difference between Predicate vs BiPredicate?
+95.What is Immutable class?
+96.What are solid principles?
+97.Difference between ClassNotFound vs NoClassDefError?
+98.What is Singleton Design pattern?Explain ThreadSafe Singleton and Bill Pugh Singleton ?
+99.How to break Singleton?
+100.What is EnumSet?
