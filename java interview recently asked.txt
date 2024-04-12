@@ -1,0 +1,79 @@
+
+Vignesh ->
+
+Core Java:
+    1.Define Class-Loader
+	2.Explain Encapsulation with your current Application
+	3.Difference Between ArrayList Vs LinkedList
+	4.Difference Between HashSet Vs HashMap
+	5.Difference Between Abstract Vs Interface
+	6.Define Solid Principle
+	7.Types of Memory
+	8.Define String Pool in Java
+	9.Is linkedhashmap synchronized?? If Yes Expalin
+	10.Difference betweeen HashMap & linkedHashMap
+	11.Difference Between Callable vs Runnable
+	12.Define SAM Interface?
+	13.Functional Interface with example
+	14.Define Marker Interface(Serializablbe)
+	15.What all are the Functional Interface before Java 8 & After Java 8??
+	16.Explain Predicate
+	17.OptionalClass with example
+	18.Default vs Static Method
+	19.Difference Between Throw vs Throws
+	20.Difference Between Final vs Finally vs Finalize
+	21.Define Strems & their operations
+	22.How HashSet removes Duplicates??
+	23.AutoBoxing Vs AutoUnBoxing in java
+	24.Example Of Streams using [ map,filter,grouingBy,counting,sorted,distinct ]
+ 
+SpringBoot:
+	1.Differnce Between @ComponentScan vs @ComponentScan
+	2.Difference Between @Bean vs @Controller
+	3.Differnce Between @Qualifier vs @Primary
+	4.Explain @Transactional??
+	5.Differnce Between @RequestParam vs @ pathvariable
+	6.Dependency Injection
+	7.JPA Aruguments
+	8.How to Conncet DB with your application
+Microservices:
+ 
+	1.Explain API Gateway & its Usage?
+	2.How to connect two DB in one service?
+	3.Live scenario example of Microservices?
+
+sakthi ->
+	Why you leave your current comp?
+Rate your self in Java?
+How JVM work?
+JVM Architecture?
+String constant pool ?
+Types of memory ?
+Garbage collection cleans which memory ?
+Throw vs throws ?
+2 programming quest 
+Hash map vs HashTable?
+How Hashmap internally works?
+What is Spring actuators how to configure?
+Bean scope?
+What are all the HTTP methods u know?
+what is the purpose of dialect in hibernate ?
+What are all the annotations u used in hibernate?
+Lazy fetch vs eager fetch?
+Caching in hibernate?
+What is second level caching?
+What is circuit breaker in Microservices?
+What is API gateway ?
+Request aprm vs path variable?
+How to get a response with 200 status but get body as 404 and response message ( ResponseEntity)?
+Mock vs injectmock?
+
+In AWS what is Cigret kattai ( I don’t know exact word)
+
+
+In lambda - filter, map
+Spring Boot - how to deploy applications in server
+how to connect database in spring boot 
+Spring data jpa - how to connect database and it’s object
+What are all the annotations used in spring boot
+What are all the methods used in HTTP requests
