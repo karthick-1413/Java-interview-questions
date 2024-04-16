@@ -77,3 +77,10 @@ how to connect database in spring boot
 Spring data jpa - how to connect database and it’s object
 What are all the annotations used in spring boot
 What are all the methods used in HTTP requests
+
+-- prasanth
+What is Microservices
+Diff bw Microservices and monolithic
+Advantage and disadvantage
+How Microservices connect eachother
+Major ah intha mari tha ketanga
