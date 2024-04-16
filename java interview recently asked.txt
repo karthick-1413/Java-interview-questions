@@ -84,3 +84,36 @@ Diff bw Microservices and monolithic
 Advantage and disadvantage
 How Microservices connect eachother
 Major ah intha mari tha ketanga
+
+
+-- Ganga Friend
+1. advantages of micro service architecture?
+2. when we need to go with micro services?
+3. components of API gateway?
+4. what is service registry and which registry you are using?
+5. how to configure service registry?
+6. use of API gateway ?
+7. API gateway configuration?
+8. what happen if API gateway is down?
+9. is application will work? when api gateway is down?
+10. use of circuit breaker?
+11. which circuit breaker you are using?
+12. how to configure circuit breaker ?
+13. how to make api to api service call ?
+14. what happen if one service is down or not responding?
+15. what is saga design patter?
+16. what is distributed logging?
+17. which logging you worked ?
+18. how to track issue?
+19. how to track log when service is down?
+20. which tool used for distributed log tracing?
+21. what is span id and trace id?
+22. what is actuator and use? 
+23. how to configure and check actuator?
+24. actuator work in live environment or local?
+25. which code coverage tool you are using?
+26. how to deploy application?
+27. use of docker ?
+28. use of docker compose?
+29. use of kubernate?
+30. explain kafka if working ?
