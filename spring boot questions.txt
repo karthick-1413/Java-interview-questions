@@ -21,3 +21,23 @@
 18.What type of injection use by @Autowired ?
 19.Why constructor injection is a recommended approach over setter base i?
 20.Please describe the workflow of kafka ?
+
+21.Primary key vs Unique key ?
+22. What is Triggers in Database ?
+23. Prepared Statement vs Statement ?
+24. DataBase Indexing ?
+25.Concept of Sharding ?
+26.Hibernate First Level vs Second Level Caching ?
+27.Get vs Load ?
+28.Save vs Persist ?
+29.Response Entity ?
+30.How to configure multiple databases in springboot application ?
+31.How to declare Global Exceptions in Springboot application ?
+32.explain Bean LifeCycle ?
+33.Explain IOC Containers ?
+34.Explain Dependency Injections ?
+35.Explain Application Context ? Why it’s use ?
+36.How to Enable multiple Eureka Servers ?
+37.Spring Filter vs Spting Interceptors ?
+38.Why Transactional annotaion use?
+39.Spring Security Context Explained ?
