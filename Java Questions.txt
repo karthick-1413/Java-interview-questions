@@ -106,3 +106,12 @@
 98.What is Singleton Design pattern?Explain ThreadSafe Singleton and Bill Pugh Singleton ?
 99.How to break Singleton?
 100.What is EnumSet?
+
+101 Instance Level Locking vs Class Level Locking ?
+102 Which have concume more memory and Why (int vs Integer)?
+103 HashTable vs Concurrent HashMap ?
+104 How to Detect Memory Leak ?
+105 String Tokenizer ?
+106 Weak HashMap ?
+107 Diff between Predicates,Supplier,Concumer and Function ?
+108 Callable vs Runnable ?
