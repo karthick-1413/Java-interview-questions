@@ -117,3 +117,43 @@ Major ah intha mari tha ketanga
 28. use of docker compose?
 29. use of kubernate?
 30. explain kafka if working ?
+
+--- -- Ganga Friend set 11
+:54 PM | 0.6KB/s
+
+You
+
+28 minutes ago
+
+4G+
+
+44
+
+new 23
+
+1. how multipile db connection in spring boot
+2. sync and async api call in spring boot
+3. how to call two different property files 4. how to read values from property file
+5. how to get status of other application from eureka server
+6.lazy loading from angular
+7. query for optional paramer in springdata jpa
+B. how pagination config
+9. cron job in spring boot
+10. distributed login in microservices
+11. How to handle exception in spring boot
+12. jwt token how to set expiry time
+13. how to disable auto config in spring boot
+14. how config entiry for composite primary key
+15. how to write native query in jpa what config needed
+16. multiple db config in spring boot
+17. map and flat map difference
+18. Histrix in microservices
+19. where we have to use interface and abstrace
+20. how to call rest api in angular
+21. explain routing concept
+22. how to pass values from one page to another page in angular
+23. consume api or produce api
+24. 1dompotent is get or post
+
+coding - str = "AAVCVZZZZ"
+OUPTU = A2V1C1Z3"
