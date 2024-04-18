@@ -42,6 +42,18 @@ Microservices:
 	2.How to connect two DB in one service?
 	3.Live scenario example of Microservices?
 
+
+set 2 vignesh -->
+	1.PartitionBy & GroupBy
+	2.ArrayList & LinkedList
+	3.Add ,Remove,reduce la yentha list la nadakum??
+	4.HashCollision
+	5.QueryParams
+	6.RequestByParams & PathVariable (which is optional & which is Mandatory)
+	7.is filter is belongs to which interface
+	8.Java 8 Functional Interfaces
+	9.profiles in springboot
+
 sakthi ->
 	Why you leave your current comp?
 Rate your self in Java?
