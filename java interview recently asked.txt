@@ -158,3 +158,20 @@ B. how pagination config
 
 coding - str = "AAVCVZZZZ"
 OUPTU = A2V1C1Z3"
+
+tech mahindra l2 -
+What are all the projects u r working on
+What are all the servers side u working on
+In AWS how to do a deployment
+How to implement SNS
+What do u know about security 
+Oauth2 vs single sign on
+How to overcome the Cors error
+Request parameter and path variable
+How to debugg
+In hibernate how to connect database 
+In sql what is View
+Fetch response from one server and write the fetched response to another server
+@Transactional
+If you changed one project to another, in that another project u need to learn python u  learn or not
+In springboot how to creat a crud operation from scratch
