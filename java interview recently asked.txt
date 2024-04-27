@@ -175,3 +175,12 @@ Fetch response from one server and write the fetched response to another server
 @Transactional
 If you changed one project to another, in that another project u need to learn python u  learn or not
 In springboot how to creat a crud operation from scratch
+
+
+-- ganga - chennai
+[4:47 pm, 27/4/2024] Ganga Bro Kgisl: List of 1000 employees  remove the duplicate and store in set
+[4:48 pm, 27/4/2024] Ganga Bro Kgisl: Find Age count store the age in map key and store the cout in value
+[4:48 pm, 27/4/2024] Ganga Bro Kgisl: Write the query find that age count and age count greater than 10
+[4:48 pm, 27/4/2024] Ganga Bro Kgisl: Lazy and eager
+[4:49 pm, 27/4/2024] Ganga Bro Kgisl: Join query
+[4:49 pm, 27/4/2024] Ganga Bro Kgisl: In jpa
